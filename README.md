@@ -1,6 +1,6 @@
 # Embedded EEPROM Data Storage & Retrieval System
 
-An embedded system that stores data in the PIC microcontroller's on-chip EEPROM and reads it back, so values survive a power cut. The design was built and tested in Proteus simulation.
+An embedded system that stores data in the PIC microcontroller's on-chip EEPROM and reads it back, so values survive a power cut. The implementation uses mikroC firmware, with Proteus supporting schematic development and verification.
 
 **Author:** Mohammed Mahyoub · [Portfolio](https://mahyoub88.github.io/)
 
@@ -53,3 +53,11 @@ PIC microcontroller, data EEPROM, mikroC, Proteus, LCD display, non-volatile sto
 - [Embedded Systems, IoT & Industrial Automation](https://github.com/Mahyoub88/embedded-iot-automation)
 - [Industrial Automation & PLC-Based Control Systems](https://github.com/Mahyoub88/industrial-automation-plc)
 - [All projects](https://mahyoub88.github.io/#work)
+
+## Illustrated project pages
+
+Project-specific diagrams, source media and implementation context:
+
+- [Embedded EEPROM Data Storage & Retrieval System](https://mahyoub88.github.io/projects/proj-eeprom-storage/)
+
+[Browse all engineering case studies](https://mahyoub88.github.io/projects/)
