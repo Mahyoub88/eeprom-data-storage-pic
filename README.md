@@ -55,3 +55,5 @@ PIC microcontroller, data EEPROM, mikroC, Proteus, LCD display, non-volatile sto
 - [Embedded Systems & IoT — PIC Firmware and Peripheral Integration](https://github.com/Mahyoub88/embedded-iot-automation)
 - [Industrial Automation & PLC-Based Control Systems](https://github.com/Mahyoub88/industrial-automation-plc)
 - [All projects](https://mahyoub88.github.io/#work)
+
+- [Embedded EEPROM Data Storage & Retrieval System — technical walkthrough](docs/technical-walkthroughs/proj-eeprom-storage.md)
