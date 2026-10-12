@@ -1,6 +1,6 @@
-# PIC Embedded Systems — Persistent Storage Documentation
+# Equipment Room Control — Original EEPROM Documentation
 
-EEPROM storage and retrieval have been consolidated into **PIC Embedded Systems — Peripheral Integration & Persistent Storage**.
+EEPROM storage and retrieval now support **PIC-Based Equipment Room Monitoring & Control System**, whose integrated room application is presented as a reference design with preserved earlier implementation media.
 
 - [Read the unified case study](https://mahyoub88.github.io/projects/proj-embedded-iot/#persistent-storage)
 - [Unified repository and persistent-storage explanation](https://github.com/Mahyoub88/embedded-iot-automation#persistent-storage)
